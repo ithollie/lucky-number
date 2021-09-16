@@ -1,0 +1,11 @@
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\bin\Debug\luckyNumber.exe
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\bin\Debug\luckyNumber.exe.config
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.Form1.resources
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.Form3.resources
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.Properties.Resources.resources
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.csproj.GenerateResource.cache
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.csproj.CoreCompileInputs.cache
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.exe
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.pdb
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\bin\Debug\luckyNumber.pdb
+C:\Users\ithol\source\repos\luckyNumber\luckyNumber\obj\Debug\luckyNumber.csproj.AssemblyReference.cache
